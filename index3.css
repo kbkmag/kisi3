@@ -1,0 +1,17 @@
+body {
+	background-image: url('bg1.jpg');
+	background-repeat: no-repeat;
+	
+}
+
+.container {
+	
+
+.card {
+    text-align: center;
+}
+
+.footer {
+	background-color: green;
+
+}
